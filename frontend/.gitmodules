@@ -1,0 +1,3 @@
+[submodule "aml-task"]
+	path = aml-task
+	url = git@github.com:VachMalkhasyan/aml-task.git
